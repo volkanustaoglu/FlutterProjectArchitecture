@@ -1,0 +1,4 @@
+enum SharedKeys {
+  themeDark,
+  language
+}

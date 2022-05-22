@@ -1,0 +1,16 @@
+{
+    "deneme":"deneme",
+    "kullanici":"Kullanıcı",
+    "bildirimler":"Bildirimler",
+    "kullaniciListesi" : "Kullanıcı Listesi",
+    "anaSayfa" : "Ana Sayfa",
+    "tumPsikologlar" : "Psikologlar",
+    "diller" : "Diller",
+    "ingilizce" : "İngilizce",
+    "turkce" : "Türkçe",
+    "dilDegistirme" : "Dil Değiştirme",
+    "eminMisinDegistirmek" :"Dili değiştirmek istediğinizden emin misiniz?",
+    "evet":"Evet",
+    "hayir":"Hayır",
+    "tiklandi": "Tıklandı"
+}

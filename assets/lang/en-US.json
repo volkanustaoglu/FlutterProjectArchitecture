@@ -1,0 +1,17 @@
+{
+    "deneme":"test",
+    "kullanici" : "User",
+    "bildirimler": "Notifications",
+    "kullaniciListesi" : "User List",
+    "anaSayfa" : "Home",
+    "tumPsikologlar" : "Psychologists",
+    "diller" : "Languages",
+    "ingilizce" : "English",
+    "turkce" : "Turkish",
+    "dilDegistirme" : "Change Language",
+    "eminMisinDegistirmek" :"Are you sure want to change language?",
+    "evet":"Yes",
+    "hayir":"No",
+    "tiklandi" : "Clicked"
+
+}
